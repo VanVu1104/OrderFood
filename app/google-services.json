@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369666373373",
+    "project_id": "doanthucan-53472",
+    "storage_bucket": "doanthucan-53472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369666373373:android:7fe6ae2002a78f436b3094",
+        "android_client_info": {
+          "package_name": "com.example.doanthucan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFnK_VmiBDcKC-iYcryHDE85VT7qw4og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
